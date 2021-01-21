@@ -1,0 +1,51 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="lay-filter" />
+            <item index="1" class="java.lang.String" itemvalue="lay-id" />
+            <item index="2" class="java.lang.String" itemvalue="lay-allowclose" />
+            <item index="3" class="java.lang.String" itemvalue="layuimini-tab-close" />
+            <item index="4" class="java.lang.String" itemvalue="layuimini-content-href" />
+            <item index="5" class="java.lang.String" itemvalue="lay-unselect" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="li" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="jiphy" />
+            <item index="1" class="java.lang.String" itemvalue="Js2Py" />
+            <item index="2" class="java.lang.String" itemvalue="LessHash-BloomFilter" />
+            <item index="3" class="java.lang.String" itemvalue="certifi" />
+            <item index="4" class="java.lang.String" itemvalue="DBUtils" />
+            <item index="5" class="java.lang.String" itemvalue="numpy" />
+            <item index="6" class="java.lang.String" itemvalue="pyjsparser" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
